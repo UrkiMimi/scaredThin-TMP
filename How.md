@@ -4,7 +4,7 @@ This is an explanation file on how a lot of the effects are pulled off
 ## Notes
 The notes seem simplistic at first but are probably the most complex part I wrote in the Unity side for the map. A lot of stuff is borrowed straight from BSPTK like the debris cut logic and dissolve. They also include some special checks to see if bloom isn't enabled (for readability reasons). 
 
-How notes are handled with Vivify are really dumb so separate prefabs for note arrows, cubes, etc. exist. This allowed me create some noodle effects like the C1 note split seen here (i'm very sorry mawntee). Even with this hacky workaround in place, This was mostly the reason why most note effects in the map were simplistic throuought the map.
+How notes are handled with Vivify are really dumb so separate prefabs for note arrows, cubes, etc. exist. This allowed me create some noodle effects like the C1 note split seen here (i'm very sorry mawntee). Even with this hacky workaround in place, This was mostly the reason why most note effects were simplistic throuought the map.
 
 <img width="214" height="192" alt="image" src="https://github.com/user-attachments/assets/5d35a262-8064-4a22-8ec5-c519ea08e8ef" />
 
