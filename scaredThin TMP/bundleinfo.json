@@ -1,0 +1,3194 @@
+{
+  "materials": {
+    "arrow": {
+      "path": "assets/materials/scaredthin/arrow.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Color": {
+          "value": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogScale": {
+          "value": 75.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 1.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Glow": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_SlicePos": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_CullingMode": {
+          "value": 2.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TransformOffset": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_Cutout": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_CutoutTexScale": {
+          "value": 2.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EdgeIntensity": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_CutPlane": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_EnableCutPlane": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_InsideBrightness": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexScale": {
+          "value": 8.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_NoteBrightness": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "cloud0": {
+      "path": "assets/materials/scaredthin/cloud0.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            1.0,
+            0.721568644,
+            0.9647059,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOverrideColor": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Glow": {
+          "value": 0.05,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 150.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogClamp": {
+          "value": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_FresnelVector": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_HeightFogScale": {
+          "value": -35.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOverride": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexScale1": {
+          "value": 8.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "cloud1": {
+      "path": "assets/materials/scaredthin/cloud1.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            0.6037736,
+            0.236382991,
+            0.557202935,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOverrideColor": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Glow": {
+          "value": 0.05,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 150.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogClamp": {
+          "value": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_FresnelVector": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_HeightFogScale": {
+          "value": -25.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOverride": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexScale1": {
+          "value": 8.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "floor": {
+      "path": "assets/materials/scaredthin/floor.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            0.415094167,
+            0.19384104,
+            0.400727063,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOverrideColor": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Glow": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 75.19,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 1.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogClamp": {
+          "value": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_FresnelVector": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_HeightFogScale": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogOffset": {
+          "value": 1000.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOverride": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexScale1": {
+          "value": 8.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "flyguy": {
+      "path": "assets/materials/scaredthin/flyguy.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOverrideColor": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Glow": {
+          "value": 0.018,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 1.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 75.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogClamp": {
+          "value": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_FresnelVector": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_HeightFogScale": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogOffset": {
+          "value": 1000.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOverride": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexScale1": {
+          "value": 8.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "grass": {
+      "path": "assets/materials/scaredthin/grass.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            0.415685862,
+            0.192156464,
+            0.3999996,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Glow": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 1.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogScale": {
+          "value": 0.58,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogOffset": {
+          "value": -0.13,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 75.19,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_NoiseScale": {
+          "value": 0.03,
+          "type": {
+            "Float": null
+          }
+        },
+        "_NoiseStartingPoint": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexAdd": {
+          "value": [
+            0.03,
+            0.0,
+            0.03,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_VertexMultiply": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_NoiseTimeScale": {
+          "value": [
+            1.0,
+            0.0,
+            0.8,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "lights": {
+      "path": "assets/materials/scaredthin/lights.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Color": {
+          "value": [
+            1.0,
+            0.5990566,
+            0.9330316,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOffset": {
+          "value": -44.6,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 100.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Glow": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FactorOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_OverrideMainEffect": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "matte": {
+      "path": "assets/materials/scaredthin/matte.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            0.160377353,
+            0.0703542158,
+            0.1503748,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOverrideColor": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Glow": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 75.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 1.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogClamp": {
+          "value": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_FresnelVector": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_HeightFogScale": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogOffset": {
+          "value": 1000.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOverride": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexScale1": {
+          "value": 10.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "matteheightfog": {
+      "path": "assets/materials/scaredthin/matteheightfog.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            0.160784274,
+            0.07058821,
+            0.149019569,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOverrideColor": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Glow": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 140.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogClamp": {
+          "value": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_FresnelVector": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_HeightFogScale": {
+          "value": -20.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOverride": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexScale1": {
+          "value": 8.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "note": {
+      "path": "assets/materials/scaredthin/note.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Color": {
+          "value": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogScale": {
+          "value": 75.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 1.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Glow": {
+          "value": 0.05,
+          "type": {
+            "Float": null
+          }
+        },
+        "_SlicePos": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_CullingMode": {
+          "value": 2.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TransformOffset": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_Cutout": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_CutoutTexScale": {
+          "value": 2.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EdgeIntensity": {
+          "value": 0.05,
+          "type": {
+            "Float": null
+          }
+        },
+        "_CutPlane": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_EnableCutPlane": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_InsideBrightness": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexScale": {
+          "value": 8.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_NoteBrightness": {
+          "value": 0.7,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "notearrowglow": {
+      "path": "assets/materials/scaredthin/notearrowglow.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Color": {
+          "value": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOffset": {
+          "value": 1.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 75.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Glow": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FactorOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_OverrideMainEffect": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "notedebris": {
+      "path": "assets/materials/scaredthin/notedebris.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Color": {
+          "value": [
+            1.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogScale": {
+          "value": 75.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 1.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Glow": {
+          "value": 0.05,
+          "type": {
+            "Float": null
+          }
+        },
+        "_SlicePos": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_CullingMode": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TransformOffset": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_Cutout": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_CutoutTexScale": {
+          "value": 2.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EdgeIntensity": {
+          "value": 0.05,
+          "type": {
+            "Float": null
+          }
+        },
+        "_CutPlane": {
+          "value": [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_EnableCutPlane": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_InsideBrightness": {
+          "value": 0.7,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexScale": {
+          "value": 8.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_NoteBrightness": {
+          "value": 0.7,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "post": {
+      "path": "assets/materials/scaredthin/post.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_ColorStep": {
+          "value": 4.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_DitherIntensity": {
+          "value": 0.01,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.01,
+          "type": {
+            "Float": null
+          }
+        },
+        "_GrayFact": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Intensity": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        }
+      }
+    },
+    "postanalog": {
+      "path": "assets/materials/scaredthin/postanalog.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_NoiseTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Smear": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Kernel": {
+          "value": 0.02,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TangentHead": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_NoiseScale": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ColorLoss": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "bladecore": {
+      "path": "assets/materials/scaredthin/saber/bladecore.mat",
+      "properties": {
+        "_Color": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_CustomColors": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AddColor": {
+          "value": 0.05,
+          "type": {
+            "Float": null
+          }
+        },
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_DISP_PIXELS": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Intensity": {
+          "value": 256.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_SatMix": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_SCROLL_UV": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ScrollUVVelocity": {
+          "value": [
+            1.0,
+            0.1,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_Snapping": {
+          "value": 128.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ScaleVector": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        }
+      }
+    },
+    "handle": {
+      "path": "assets/materials/scaredthin/saber/handle.mat",
+      "properties": {
+        "_Color": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_CustomColors": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_AddColor": {
+          "value": 0.05,
+          "type": {
+            "Float": null
+          }
+        },
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_DISP_PIXELS": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Intensity": {
+          "value": 32.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_SatMix": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_SCROLL_UV": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ScrollUVVelocity": {
+          "value": [
+            0.0,
+            0.1,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_Snapping": {
+          "value": 128.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_ScaleVector": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        }
+      }
+    },
+    "trail": {
+      "path": "assets/materials/scaredthin/saber/trail.mat",
+      "properties": {
+        "_MainTexture": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_ColorTint": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_DisplacementTexture": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_DisplacementVector": {
+          "value": [
+            0.05,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_TimeScale": {
+          "value": 100.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "shimmer": {
+      "path": "assets/materials/scaredthin/shimmer.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Color": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 140.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Glow": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FactorOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_OverrideMainEffect": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "skybox": {
+      "path": "assets/materials/scaredthin/skybox.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            0.150943249,
+            0.0391598456,
+            0.135699987,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOverrideColor": {
+          "value": [
+            0.8,
+            0.02,
+            0.6309999,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Glow": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 1000.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 100.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogClamp": {
+          "value": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_FresnelVector": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_HeightFogScale": {
+          "value": -90.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogOffset": {
+          "value": 100.25,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOverride": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexScale1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "smoke": {
+      "path": "assets/materials/scaredthin/smoke.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Color": {
+          "value": [
+            0.9716981,
+            0.5087646,
+            0.8543458,
+            0.0509803928
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "speakbg": {
+      "path": "assets/materials/scaredthin/speakbg.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Color": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOffset": {
+          "value": 1000.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Glow": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FactorOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_OverrideMainEffect": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "speaksprite": {
+      "path": "assets/materials/scaredthin/speaksprite.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Color": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOffset": {
+          "value": 1000.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Glow": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FactorOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_OverrideMainEffect": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_UseCutout": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "standguy": {
+      "path": "assets/materials/scaredthin/standguy.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOverrideColor": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Glow": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 1.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 75.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogClamp": {
+          "value": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_FresnelVector": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_HeightFogScale": {
+          "value": 1000.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogOffset": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOverride": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexScale1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "tris": {
+      "path": "assets/materials/scaredthin/tris.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            0.4150942,
+            0.19384107,
+            0.4007271,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Glow": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 1.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogScale": {
+          "value": 22.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogOffset": {
+          "value": 2.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 75.19,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_NoiseScale": {
+          "value": 0.1,
+          "type": {
+            "Float": null
+          }
+        },
+        "_NoiseStartingPoint": {
+          "value": -1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexAdd": {
+          "value": [
+            0.5,
+            0.5,
+            0.5,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_VertexMultiply": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_NoiseTimeScale": {
+          "value": [
+            0.1,
+            0.1,
+            0.1,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "floor (1)": {
+      "path": "assets/materials/scaredthin/valley/floor.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            0.6415094,
+            0.299572736,
+            0.516028166,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Glow": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": -118.79,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogScale": {
+          "value": 30.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogOffset": {
+          "value": 100.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 250.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_NoiseScale": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_NoiseStartingPoint": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexAdd": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_VertexMultiply": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_NoiseTimeScale": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "material.004": {
+      "path": "assets/materials/scaredthin/valley/material.004.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            0.7215855,
+            0.5514863,
+            0.764151,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOverrideColor": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Glow": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 250.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": -24.9,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogClamp": {
+          "value": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_FresnelVector": {
+          "value": [
+            1.0,
+            -5.0,
+            3.76,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_HeightFogScale": {
+          "value": 37.35,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogOffset": {
+          "value": -0.3,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOverride": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexScale1": {
+          "value": 8.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "material": {
+      "path": "assets/materials/scaredthin/valley/material.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            0.433962256,
+            0.0,
+            0.336252868,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOverrideColor": {
+          "value": [
+            0.8,
+            0.02,
+            0.6309999,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Glow": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 95.66,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 10.16,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogClamp": {
+          "value": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_FresnelVector": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_HeightFogScale": {
+          "value": -30.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogOffset": {
+          "value": 6.94,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOverride": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexScale1": {
+          "value": 8.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "sun": {
+      "path": "assets/materials/scaredthin/valley/sun.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            1.0,
+            0.67145586,
+            0.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOverrideColor": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Glow": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 75.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogClamp": {
+          "value": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_FresnelVector": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_HeightFogScale": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogOffset": {
+          "value": 100.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOverride": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexScale1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "water": {
+      "path": "assets/materials/scaredthin/valley/water.mat",
+      "properties": {
+        "_DisplacementIntensity": {
+          "value": 0.025,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_DisplacementTexture": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_CullMode": {
+          "value": 2.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFog": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 1000.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 1000.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TintColor": {
+          "value": [
+            0.85,
+            0.85,
+            0.85,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_AddColor": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Cutout": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_CutoutTexScale": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_TimeScale": {
+          "value": [
+            0.1,
+            -0.05,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    },
+    "white": {
+      "path": "assets/materials/scaredthin/white.mat",
+      "properties": {
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_Cutoff": {
+          "value": 0.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Color": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_FogOverrideColor": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Glow": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogScale": {
+          "value": 75.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOffset": {
+          "value": 1.5,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogClamp": {
+          "value": [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_FresnelVector": {
+          "value": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "type": {
+            "Vector": null
+          }
+        },
+        "_HeightFogScale": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_HeightFogOffset": {
+          "value": 1000.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Fade": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_EnableFading": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_FogOverride": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_VertexScale1": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_texcoord": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "__dirty": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    }
+  },
+  "prefabs": {
+    "aaatext": "assets/prefabs/scaredthin/aaatext.prefab",
+    "arrow": "assets/prefabs/scaredthin/arrow.prefab",
+    "blueroom": "assets/prefabs/scaredthin/blueroom.prefab",
+    "bulleterror": "assets/prefabs/scaredthin/bulleterror.prefab",
+    "cloudbgps": "assets/prefabs/scaredthin/cloudbgps.prefab",
+    "dot": "assets/prefabs/scaredthin/dot.prefab",
+    "flyguyenv": "assets/prefabs/scaredthin/flyguyenv.prefab",
+    "kartnaspeak": "assets/prefabs/scaredthin/kartnaspeak.prefab",
+    "laterspeak": "assets/prefabs/scaredthin/laterspeak.prefab",
+    "monitor": "assets/prefabs/scaredthin/monitor.prefab",
+    "monitorcameras": "assets/prefabs/scaredthin/monitorcameras.prefab",
+    "note": "assets/prefabs/scaredthin/note.prefab",
+    "notedebris": "assets/prefabs/scaredthin/notedebris.prefab",
+    "notemodel": "assets/prefabs/scaredthin/notemodel.prefab",
+    "notenoarrows": "assets/prefabs/scaredthin/notenoarrows.prefab",
+    "playerplacescared": "assets/prefabs/scaredthin/playerplacescared.prefab",
+    "roadside": "assets/prefabs/scaredthin/roadside.prefab",
+    "sccorridor": "assets/prefabs/scaredthin/sccorridor.prefab",
+    "screens": "assets/prefabs/scaredthin/screens.prefab",
+    "standguy": "assets/prefabs/scaredthin/standguy.prefab",
+    "valley": "assets/prefabs/scaredthin/valley.prefab",
+    "waiver9saber": "assets/prefabs/scaredthin/waiver9saber.prefab"
+  },
+  "bundleFiles": [
+    "C:/Users/urki2/OneDrive/Documents/GitHub/HeckeryPriv/Map Files/scaredThin TMP/bundleWindows2019.vivify",
+    "C:/Users/urki2/OneDrive/Documents/GitHub/HeckeryPriv/Map Files/scaredThin TMP/bundleWindows2021.vivify"
+  ],
+  "bundleCRCs": {
+    "_windows2019": 2767515053,
+    "_windows2021": 641439079
+  },
+  "isCompressed": true
+}

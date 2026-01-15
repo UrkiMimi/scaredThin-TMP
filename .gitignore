@@ -1,0 +1,46 @@
+# OS Generated
+# ============
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Visual Studio / MonoDevelop generated
+# =====================================
+[Ee]xported[Oo]bj/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+.vs/
+
+# Unity generated
+# ===============
+[Oo]bj/
+[Ll]ibrary
+[Bb]uild
+sysinfo.txt
+*.stackdump
+*.meta
+
+
+# Whole Unity Project (include public assets pls)
+# ===================
+[Vv]ivified/*
+!Vivified/Assets/Meshes/*
+
+# Hamen and Chromapper
+# ====================
+__pycache__
+reviews
+parity.txt
+scaredThin TMP.zip
+dammit
