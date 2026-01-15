@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water
+  m_Shader: {fileID: 4800000, guid: afbaf97912938ce4b938ac2b2b6de04b, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA _CLIP_LOW_ALPHA _SOFT_EDGES _VIEW_ANGLE_AFFECTS_DISTORTION
+    _ZWRITE
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2050
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DisplacementTexture:
+        m_Texture: {fileID: 2800000, guid: ed354f366bf90a3428fd55788ad869f9, type: 3}
+        m_Scale: {x: 50, y: 100}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ed354f366bf90a3428fd55788ad869f9, type: 3}
+        m_Scale: {x: 50, y: 25}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AddColorIntensity: 0
+    - _BumpScale: 1
+    - _ClipLowAlpha: 1
+    - _CullMode: 2
+    - _CustomColors: 0
+    - _Cutoff: 0.5
+    - _Cutout: 0
+    - _CutoutTexScale: 0
+    - _DetailNormalMapScale: 1
+    - _DisplacementInPixels: 0
+    - _DisplacementIntensity: 0.025
+    - _DisplacementStrength: 32
+    - _DstBlend: 0
+    - _EnableCenterCutout: 0
+    - _EnableCutout: 0
+    - _EnableFading: 0
+    - _EnableFog: 0
+    - _EnableInstancedColor: 0
+    - _Fade: 0
+    - _FadeZ: 0
+    - _FadeZThreshold: -1
+    - _FadeZWidth: 3
+    - _FogOffset: 1000
+    - _FogScale: 1000
+    - _FogStartOffset: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _Glow: 0
+    - _HeightFogOffset: 1000
+    - _HeightFogScale: 0.5
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _ScrollUV: 0
+    - _SmoothnessTextureChannel: 0
+    - _SoftEdges: 1
+    - _SoftFactor: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _UseDistortedTextureOnly: 0
+    - _UseMonoScreenTexture: 0
+    - _ViewAngleAffectsDistortion: 1
+    - _ViewAngleDistortionParam: 4
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _AddColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    - _CutoutTexOffset: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FogClamp: {r: 0, g: 1, b: 0, a: 0}
+    - _FogColor: {r: 0.22745082, g: 0.054901846, b: 0.20392141, a: 1}
+    - _FresnelVector: {r: 0, g: 0, b: 0, a: 0}
+    - _ScrollUVVelocity: {r: 1, g: 1, b: 0, a: 0}
+    - _TimeScale: {r: 0.1, g: -0.05, b: 0, a: 0}
+    - _TintColor: {r: 0.85, g: 0.85, b: 0.85, a: 1}

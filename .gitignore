@@ -4,7 +4,6 @@
 ._*
 .Spotlight-V100
 .Trashes
-Icon?
 ehthumbs.db
 [Tt]humbs.db
 [Dd]esktop.ini
@@ -29,13 +28,14 @@ ehthumbs.db
 [Bb]uild
 sysinfo.txt
 *.stackdump
-*.meta
 
 
-# Whole Unity Project (include public assets pls)
+# Everything private
 # ===================
-[Vv]ivified/*
-!Vivified/Assets/Meshes/*
+zmd
+Vivified/Assets/AmplifyShaderEditor
+Vivified/Assets/Audio
+Vivified/Assets/Meshes/0.12 Meshes
 
 # Hamen and Chromapper
 # ====================
